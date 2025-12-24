@@ -84,7 +84,9 @@
 
 ## 🤝 Professional Profile
 
-🔗 **GitHub:** [https://github.com/Shahzeb047](https://share.google/DSbkG7qNcjtlgZgEs)  
+<p>🔗 **Gmail:** [https://gmail.com/shahzebaliarain996@gmail.com](https://gmail.com/shahzebaliarain996@gmail.com) </p>
+<p>🔗 **GitHub:** [https://github.com/Shahzeb047](https://share.google/DSbkG7qNcjtlgZgEs) </p> 
+<p>🔗 **Linkedln:** [https://www.linkedin.com/in/shahzeb-ali-arain](https://www.linkedin.com/in/shahzeb-ali-arain) </p> 
 
 ---
 
