@@ -24,7 +24,8 @@
 ### 💡 Programming Languages
 - 🟦 C++  
 - 🟧 HTML  
-- 🟦 CSS  
+- 🟦 CSS
+- 🟦 JAVA
 
 ### 🧩 Core Concepts
 - 🧱 Object-Oriented Programming (OOP)  
