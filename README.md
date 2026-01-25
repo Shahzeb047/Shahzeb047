@@ -26,7 +26,7 @@
 - 🟧 HTML  
 - 🟦 CSS
 - 🟦 JAVA
-
+ 
 ### 🧩 Core Concepts
 - 🧱 Object-Oriented Programming (OOP)  
 - 🗂️ Basic Data Structures  
