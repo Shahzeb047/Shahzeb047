@@ -26,6 +26,7 @@
 - 🟧 HTML  
 - 🟦 CSS
 - 🟦 JAVA
+- 🟦 Python
  
 ### 🧩 Core Concepts
 - 🧱 Object-Oriented Programming (OOP)  
