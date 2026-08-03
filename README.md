@@ -3,8 +3,8 @@
 # 👋 Hello, I’m Shahzeb Ali
 
 🎓 Student | Aspiring Software Engineer
+      🎓 Data Analyst expert
 
-🎓 Data Analyst expert
 🧠 A motivated and disciplined student focused on strengthening programming fundamentals, logical thinking, and practical software development skills.
 
 </div>
