@@ -184,7 +184,7 @@ exploring new technologies and improving my development skills.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/apiusername=Shahzeb047byte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Shahzeb's GitHub Stars" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shahzeb047byte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Shahzeb's GitHub Stats" width="49%" />
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shahzeb047byte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
 
