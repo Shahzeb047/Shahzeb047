@@ -4,14 +4,16 @@
 <code><b>Software Engineering Student</b></code> •
 <code><b>Python Developer</b></code> •
 <code><b>Java Developer</b></code>
+</p>
+
 <p align="center">
-<code><b>📊Data Analyst Enthusiast</b></code> •
+<code><b>📊 Data Analyst Enthusiast</b></code> •
 <code><b>Tech Enthusiast</b></code>
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Python+Developer+%26+Data+Analyst+Enthusiast+;Learning+SQL+%26+Web+Development;Building+Projects+with+Code;Learn+%E2%80%A2+Build+%E2%80%A2+Grow" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Python+Developer+%26+Data+Analyst+Enthusiast;Learning+SQL+%26+Web+Development;Building+Projects+with+Code;Learn+%E2%80%A2+Build+%E2%80%A2+Grow" alt="Typing SVG" />
 </a>
 </p>
 
@@ -22,7 +24,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
-<a href="https://https://www.linkedin.com/in/shahzeb-ali-arain-368a26383/" target="_blank">
+<a href="https://www.linkedin.com/in/shahzeb-ali-arain-368a26383/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
@@ -35,8 +37,6 @@
 <img src="https://komarev.com/ghpvc/?username=Shahzeb047&label=⚡%20Profile%20Views&color=ec4899&style=for-the-badge" alt="Profile Views" />
 </p>
 
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -48,7 +48,7 @@
 <p>
 I am a <b>Software Engineering student</b> passionate about programming,
 problem solving, and building practical software projects.<br/>
-I enjoy working with <b>Python,Java, C++, SQL/DBS, HTML, Git, and GitHub</b> while continuously
+I enjoy working with <b>Python, Java, C++, SQL/DBS, HTML, Git, and GitHub</b> while continuously
 exploring new technologies and improving my development skills.
 </p>
 
@@ -73,8 +73,9 @@ exploring new technologies and improving my development skills.
 
 <h3 align="center">☕ Programming</h3>
 
+🐍 <b>Python</b><br><br>
 ☕ <b>Java</b><br><br>
-⚡ <b>Python</b><br><br>
+⚡ <b>C++</b><br><br>
 🧩 <b>Object-Oriented Programming</b><br><br>
 🧠 <b>Problem Solving</b><br><br>
 📚 <b>Data Structures Basics</b>
@@ -122,15 +123,16 @@ exploring new technologies and improving my development skills.
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,java,html,git,github,vscode,mysql&theme=dark" alt="Jameel's Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,git,github,vscode,mysql&theme=dark" alt="Shahzeb's Tech Stack" />
 </a>
 </p>
 
 <br/>
 
-<h3>☕ Programming Languages</h3>
+<h3>🐍 Programming Languages</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
@@ -174,7 +176,7 @@ exploring new technologies and improving my development skills.
 
 <h2>📊 GitHub Activity & Analytics</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzeb047&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzeb047&theme=react-dark&hide_border=true&area=true" alt="Shahzeb's Activity Graph" width="100%" />
 
 <br/><br/>
 
@@ -184,9 +186,9 @@ exploring new technologies and improving my development skills.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shahzeb047byte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Shahzeb's GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api?username=Shahzeb047&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Shahzeb's GitHub Stats" width="49%" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shahzeb047byte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shahzeb047&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Shahzeb's Top Languages" width="49%" />
 
 <br/><br/>
 
