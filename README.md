@@ -3,7 +3,7 @@
 <p align="center">
 <code><b>Software Engineering Student</b></code> •
 <code><b>Python Developer</b></code> •
-<code><b>Java++ Developer</b></code>
+<code><b>Java Developer</b></code>
 <p align="center">
 <code><b>📊Data Analyst Enthusiast</b></code> •
 <code><b>Tech Enthusiast</b></code>
