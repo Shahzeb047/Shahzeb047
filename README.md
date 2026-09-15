@@ -1,4 +1,7 @@
-<h1>👋 Hi, I'm Shahzeb Ali!</h1>
+<h1>👋 Hi, I'm Shahzeb Ali!</h1> 
+🇵🇰 Pakistan GitHub Rank
+
+[![Rankistan Pakistan Rank](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FShahzeb047&style=for-the-badge)](https://rankistan.dev/)
 
 <p align="center">
 <code><b>Software Engineering Student</b></code> •
